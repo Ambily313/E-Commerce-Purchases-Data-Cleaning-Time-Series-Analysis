@@ -11,7 +11,7 @@ This project focuses on real-world data cleaning, time series handling, string o
 - Python 3.x
 - Pandas
 - NumPy
-- Matplotlib / Seaborn (optional)
+- Matplotlib / Seaborn 
 - Jupyter Notebook
 
 ---
