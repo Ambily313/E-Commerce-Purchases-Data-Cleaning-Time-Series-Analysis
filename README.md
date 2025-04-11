@@ -3,7 +3,7 @@
 ## 🔍 Overview
 This project focuses on real-world data cleaning, time series handling, string operations, and basic exploratory analysis using the E-Commerce Purchases dataset.
 
-📥 **Dataset**: [E-Commerce Purchases CSV](https://raw.githubusercontent.com/justmarkham/pandas-videos/master/data/Ecommerce%20Purchases)  
+📥 **Dataset**: [E-Commerce Purchases CSV](https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases?resource=download)  
 
 ---
 
