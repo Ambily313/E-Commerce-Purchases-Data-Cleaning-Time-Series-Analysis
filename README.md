@@ -44,13 +44,6 @@ This project focuses on real-world data cleaning, time series handling, string o
 
 ---
 
-## 📈 Visualizations
-- Purchase distribution (histogram)
-- Hourly trend (bar plot)
-- Monthly purchase trend (line plot)
-- Email domain breakdown (pie chart)
-- Job title frequency (bar plot)
 
----
 
 
